@@ -1,8 +1,8 @@
 # Head-first-HTML-CSS
-Let's study HTML&CSS!
-<h1>知识点整理：</h1>
+<h1>Let's study HTML&CSS!</h1>
+<h2>知识点整理：</h2>
 <p>
-<h2><em>一.认识HTML P36</em></h2>
+<h3><em>一.认识HTML P36</em></h3>
 1. HTML与CSS是我们用来创建网页的语言<br/>
 2. Web服务器存储并提供由HTML和CSS创建的网页。浏览器获取页面，并根据HTML和CSS显示网页的内容<br/>
 3. HTML是超文本标记语言（HyperText Markup Language)的缩写，用来建立网页的结构<br/>
@@ -18,7 +18,7 @@ Let's study HTML&CSS!
 13. 可以在<style>元素中写CSS规则，为HTML网页增加CSS。<style>元素总要放在<head>元素里<br/>
 14. 可以用CSS在HTML中指定元素的特性<br/>
 </p>
-<h2><em>二.深入了解超文本 P69</em></h2>
+<h3><em>二.深入了解超文本 P69</em></h3>
 <p>
 1. 想从一个页面链接到另一个页面时，要使用<a>元素<br/>
 2. <a>元素的href属性指定了链接的目标文件<br/>
@@ -34,3 +34,4 @@ Let's study HTML&CSS!
 12. 为网站选择的文件夹名和文件夹名中不要使用空格<br/>
 13. 最好在构建网站初期组织网站文件，这样就不用在网站升级时修改一大堆的路径了<br/>
 14. 组织网站有很多方法，具体如何组织由你决定<br/>
+</p>
