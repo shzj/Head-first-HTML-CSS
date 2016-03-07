@@ -1,4 +1,3 @@
-# Head-first-HTML-CSS
 <h1>Let's study HTML&CSS!</h1>
 <h2>知识点整理：</h2>
 <p>
@@ -18,7 +17,9 @@
 13. 可以在<style>元素中写CSS规则，为HTML网页增加CSS。<style>元素总要放在<head>元素里<br/>
 14. 可以用CSS在HTML中指定元素的特性<br/>
 </p>
+
 <h3><em>二.深入了解超文本 P69</em></h3>
+
 <p>
 1. 想从一个页面链接到另一个页面时，要使用<a>元素<br/>
 2. <a>元素的href属性指定了链接的目标文件<br/>
