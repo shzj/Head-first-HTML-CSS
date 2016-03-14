@@ -1,0 +1,67 @@
+index.HTML
+<!DOCTYPE HTML >
+<html>
+   <head>
+   <title>Starbuzz Coffee Beverages</title>
+   <style type="text/css">
+          body {
+                 background-color:#d2b48c;
+                 margin-left: 20%;
+                 margin-right: 20%;
+                 border: 2px dotted black;
+                 padding: 10px 10px 10px 10px;
+                 font-family:sans-serif;
+          }
+    </style>
+ </head>
+ <body>
+   <h1>Welcome come to Starbuzz!</h1>
+   <h2>House Blend,$1.49</h2>
+   <p id="houseblend" >
+      A smooth, mild blend of coffees from Mexico,Bolivia and Guatemala.
+   </p>
+   <h2>Mocha Cafe Latte,$2.3</h2>
+   <p>
+      Espresso,steamed milk and chocolate syrup.
+   </p>
+   <h2>Cappuccino,$1.89</h2>
+   <p>
+      A mixture of espresso,steamed milk and foam.
+   </p>
+   <h2>Chai Tea,$1.85</h2>
+   <p>
+      A spicy drink made with black tea,spices,milk and honey.
+   </p>
+   <p>
+      <a target="_blank" href="mission.html"
+      title="our Mission">Read about our Mission</a>.
+      <br>
+      Read the <a target="_blank"  href="http://wickedlysmart.com/buzz/index.html#Coffee"
+      title="Read all about caffeine on the buzz">Caffeine Buzz</a>.
+      </p>
+  </body>
+</html>
+
+
+mission.html
+<html>
+ <head>
+   <title>mission</title>
+   <style type="text/css">
+    body {
+                 background-color:#d2b48c;
+                 margin-left: 20%;
+                 margin-right: 20%;
+                 border: 2px dotted black;
+                 padding: 10px 10px 10px 10px;
+                 font-family:sans-serif;
+         }
+    </style>
+ </head>
+ <body>
+   <h1>Starbuzz Coffee's Mission</h1>
+   <p>To provide all the caffeine that you need to power your life.</p>
+   <P>Just drink it.</p>
+ </body>
+</html>
+
