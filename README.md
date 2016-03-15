@@ -1,5 +1,6 @@
 <h1>Let's study HTML&CSS!</h1>
 <h1>欲善其事，必先利其器</h1>
+<img src="http://p1.qhimg.com/dr/250_500_/t01e59f43f8f6b6ff3d.jpg">
 <h2>知识点整理：</h2>
 <p>
 <h3><em>一.认识HTML P36</em></h3>
